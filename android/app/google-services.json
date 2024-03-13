@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528012246014",
+    "project_id": "vegifood-6bfec",
+    "storage_bucket": "vegifood-6bfec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528012246014:android:6fd66adfe1950787d41eaf",
+        "android_client_info": {
+          "package_name": "com.sutraoone.vegifood.vegifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMP5h4rQP0YW-LqdfhzaN1hgNEhXvXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
